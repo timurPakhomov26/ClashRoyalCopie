@@ -7,6 +7,7 @@ public class Lobby : MonoBehaviourPunCallbacks
 {
     [SerializeField] private TextMeshProUGUI _logText;
     [SerializeField] private FPS _fps;
+    [SerializeField] private Camera _mainCamera;
     
     
     private void Start()
@@ -25,11 +26,14 @@ public class Lobby : MonoBehaviourPunCallbacks
 
     public void CreateRoom()
     {
+         _mainCamera.transform.rotation = new Quaternion(84,0,0,0);
         PhotonNetwork.CreateRoom(null, new Photon.Realtime.RoomOptions { MaxPlayers = 2 });
+       
     }
 
     public void JoinRoom()
     {
+        _mainCamera.transform.rotation = new Quaternion(84,180,0,0);
         PhotonNetwork.JoinRandomRoom();
     }
 

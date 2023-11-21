@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b110604-e425-41f9-8a7e-9fa2ceb72965" name="Default Changelist" comment="" />
+    <list default="true" id="1b110604-e425-41f9-8a7e-9fa2ceb72965" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClashRoyalCopie/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClashRoyalCopie/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClashRoyalCopie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClashRoyalCopie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Scripts/MainScene/Lobby.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Scripts/MainScene/Lobby.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Source/Scripts/MainScene/Lobby.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/DeckChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/Plane.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/TestSaver.cs" />
@@ -33,10 +44,12 @@
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/Item/ItemBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/Item/Item.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Scripts/Item/ItemInMainScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Scripts/MainScene/Lobby.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2XcA5TMLUPMlLcpZqrYoobFJhZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +62,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds\ClashRoyaleCopie.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\MyGames\UnityProjects\ClashRoyalCopie\ClashRoyalCopie\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -91,6 +112,7 @@
       <workItem from="1700483035903" duration="5000" />
       <workItem from="1700483066148" duration="2316000" />
       <workItem from="1700551709307" duration="2390000" />
+      <workItem from="1700583010230" duration="1732000" />
     </task>
     <servers />
   </component>
@@ -99,6 +121,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
